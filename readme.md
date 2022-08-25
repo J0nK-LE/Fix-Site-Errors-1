@@ -15,3 +15,9 @@ Welcome to the HoriSEOn webpage fixup
 * deleted/combined superfluous CSS  
 
 * added alt text to images
+
+* https://j0nk-le.github.io/challenge1/
+
+![screenshot](assets/images/challenge1_index.html.png)
+
+
