@@ -1,15 +1,17 @@
 Welcome to the HoriSEOn webpage fixup
 
-changes made
+### changes made
 
-replaced Divs with semantic HTML. header, footer, etc
+* replaced Divs with semantic HTML. header, footer, etc
 
-re-structured layout of HTML, majority of display was stuck in the header
+* re-structured layout of HTML, majority of display was stuck in the header
 
-deleted unnessesary IDs
+* deleted unnecessary IDs
 
-got links in the header to link to lower down the page
+* got links in the header to link to lower down the page
 
-streamlined classes and fixed CSS to correspond with new class names
+* streamlined classes and fixed CSS to correspond with new class names
 
-deleted/combined superfluous CSS  
+* deleted/combined superfluous CSS  
+
+* added alt text to images
